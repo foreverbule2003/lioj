@@ -63,3 +63,6 @@ const solve = (lines) => {
 // 222
 // 223
 // 0
+
+// BigInt
+// https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/BigInt
